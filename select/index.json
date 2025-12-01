@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Like Water",
+  "base_artist": "WENDY",
+  "createdAt": "2025-12-01T12:52:31.413976Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Like Water",
+      "artist": "Bad Company",
+      "has_synced": true,
+      "path": "select/01_Like_Water_Bad_Company.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Like Water",
+      "artist": "Flume feat. MNDR",
+      "has_synced": true,
+      "path": "select/02_Like_Water_Flume_feat._MNDR.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Like Water (feat. MNDR)",
+      "artist": "Flume",
+      "has_synced": true,
+      "path": "select/03_Like_Water_(feat._MNDR)_Flume.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dreams Are Like Water",
+      "artist": "This Mortal Coil",
+      "has_synced": true,
+      "path": "select/04_Dreams_Are_Like_Water_This_Mortal_Coil.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Just Like Water - Live",
+      "artist": "Lauryn Hill",
+      "has_synced": true,
+      "path": "select/05_Just_Like_Water_-_Live_Lauryn_Hill.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wine Like Water",
+      "artist": "Liquido",
+      "has_synced": false,
+      "path": "select/06_Wine_Like_Water_Liquido.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Candy (Drippin' Like Water) - Final Album Version (Explicit)",
+      "artist": "Snoop Dogg feat. E-40, MC Eiht, Goldie Loc, Daz & Kurupt",
+      "has_synced": true,
+      "path": "select/07_Candy_(Drippin'_Like_Water)_-_Final_Album_Version_(Explicit)_Snoop_Dogg_feat._E-40,_MC_Eiht,_Goldie_Loc,_Daz_&_Kurupt.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Candy (Drippin' Like Water) (Final Album Version Explicit)",
+      "artist": "Snoop Dogg",
+      "has_synced": true,
+      "path": "select/08_Candy_(Drippin'_Like_Water)_(Final_Album_Version_Explicit)_Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Like Water, Like Wind",
+      "artist": "Michael Franks",
+      "has_synced": false,
+      "path": "select/09_Like_Water,_Like_Wind_Michael_Franks.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Like Water (Originals)",
+      "artist": "Alicia Keys",
+      "has_synced": true,
+      "path": "select/10_Like_Water_(Originals)_Alicia_Keys.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Just Like Water",
+      "artist": "Lauryn Hill",
+      "has_synced": true,
+      "path": "select/11_Just_Like_Water_Lauryn_Hill.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Like Water - 2017 Remaster",
+      "artist": "Bad Company",
+      "has_synced": false,
+      "path": "select/12_Like_Water_-_2017_Remaster_Bad_Company.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Like Water",
+      "artist": "WENDY",
+      "has_synced": true,
+      "path": "select/13_Like_Water_WENDY.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Like Water",
+      "artist": "Flume; MNDR",
+      "has_synced": true,
+      "path": "select/14_Like_Water_Flume;_MNDR.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hold Me Like Water",
+      "artist": "Empress Of",
+      "has_synced": true,
+      "path": "select/15_Hold_Me_Like_Water_Empress_Of.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Like Water",
+      "artist": "웬디(WENDY)",
+      "has_synced": true,
+      "path": "select/16_Like_Water_웬디(WENDY).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Like Water",
+      "artist": "WENDY",
+      "has_synced": false,
+      "path": "select/pl_01_Like_Water_WENDY.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Like Water (Originals)",
+      "artist": "WENDY",
+      "has_synced": false,
+      "path": "select/pl_02_Like_Water_(Originals)_WENDY.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "LIKE WATER (Feat. Loco, HyunA)",
+      "artist": "WENDY",
+      "has_synced": false,
+      "path": "select/pl_03_LIKE_WATER_(Feat._Loco,_HyunA)_WENDY.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "LIKE WATER",
+      "artist": "WENDY",
+      "has_synced": false,
+      "path": "select/pl_04_LIKE_WATER_WENDY.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Like Water",
+      "artist": "WENDY",
+      "has_synced": false,
+      "path": "select/pl_05_Like_Water_WENDY.txt"
+    }
+  ]
+}
